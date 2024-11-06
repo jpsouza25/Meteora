@@ -1,0 +1,21 @@
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidade{
+   width: 325px; 
+   padding: 10em;
+}
+
+.lilas {
+    background-color: #9353FF;
+    color: white;
+}
+
+.verde {
+    color: #DAFF01;
+}
+
+.m-3 {
+    margin: 2rem 7rem !important;
+}
